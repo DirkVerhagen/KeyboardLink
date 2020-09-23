@@ -18,7 +18,7 @@
                 "__class" : "TextNode",
                 "autoSize" : true,
                 "bottom" : null,
-                "centerAnchorX" : 0.5,
+                "centerAnchorX" : 0.50277777777777777,
                 "centerAnchorY" : 0.40078124999999998,
                 "clip" : true,
                 "codeOverrideEnabled" : false,
@@ -27,7 +27,7 @@
                 "exportOptions" : [
 
                 ],
-                "height" : 19,
+                "height" : 21,
                 "heightType" : 0,
                 "id" : "blmdx44lA",
                 "isTarget" : false,
@@ -47,9 +47,9 @@
                         "emptyStyle" : [
                           "FONT:Inter",
                           "COLOR:rgb(0, 0, 0)",
-                          "SIZE:16",
                           "LETTERSPACING:0",
-                          "LINEHEIGHT:1.2"
+                          "LINEHEIGHT:1.2",
+                          "SIZE:18"
                         ]
                       },
                       "depth" : 0,
@@ -70,17 +70,17 @@
                         {
                           "length" : 31,
                           "offset" : 0,
-                          "style" : "SIZE:16"
-                        },
-                        {
-                          "length" : 31,
-                          "offset" : 0,
                           "style" : "LETTERSPACING:0"
                         },
                         {
                           "length" : 31,
                           "offset" : 0,
                           "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 31,
+                          "offset" : 0,
+                          "style" : "SIZE:18"
                         }
                       ],
                       "key" : "7co6q",
@@ -95,7 +95,7 @@
                 "textVerticalAlignment" : "top",
                 "top" : 247,
                 "visible" : true,
-                "width" : 224,
+                "width" : 252,
                 "widthType" : 0
               },
               {
@@ -238,7 +238,7 @@
                 "exportOptions" : [
 
                 ],
-                "height" : 70,
+                "height" : 72,
                 "heightType" : 0,
                 "id" : "d0UI_dvjm",
                 "isTarget" : false,
@@ -355,11 +355,6 @@
                         {
                           "length" : 17,
                           "offset" : 0,
-                          "style" : "SIZE:16"
-                        },
-                        {
-                          "length" : 17,
-                          "offset" : 0,
                           "style" : "LETTERSPACING:0"
                         },
                         {
@@ -371,6 +366,11 @@
                           "length" : 17,
                           "offset" : 0,
                           "style" : "ALIGN:center"
+                        },
+                        {
+                          "length" : 17,
+                          "offset" : 0,
+                          "style" : "SIZE:18"
                         }
                       ],
                       "key" : "324j1",
@@ -671,7 +671,7 @@
                 "__class" : "TextNode",
                 "autoSize" : true,
                 "bottom" : null,
-                "centerAnchorX" : 0.50138888888888888,
+                "centerAnchorX" : 0.50416666666666665,
                 "centerAnchorY" : 0.48515625000000001,
                 "clip" : true,
                 "codeOverrideEnabled" : false,
@@ -682,7 +682,7 @@
                 "exportOptions" : [
 
                 ],
-                "height" : 19,
+                "height" : 21,
                 "heightType" : 0,
                 "id" : "M4OKuSvF7",
                 "isTarget" : false,
@@ -702,9 +702,9 @@
                         "emptyStyle" : [
                           "FONT:Inter",
                           "COLOR:rgb(0, 0, 0)",
-                          "SIZE:16",
                           "LETTERSPACING:0",
-                          "LINEHEIGHT:1.2"
+                          "LINEHEIGHT:1.2",
+                          "SIZE:18"
                         ]
                       },
                       "depth" : 0,
@@ -713,33 +713,33 @@
                       ],
                       "inlineStyleRanges" : [
                         {
-                          "length" : 22,
+                          "length" : 17,
                           "offset" : 0,
                           "style" : "FONT:Inter"
                         },
                         {
-                          "length" : 22,
+                          "length" : 17,
                           "offset" : 0,
                           "style" : "COLOR:rgb(0, 0, 0)"
                         },
                         {
-                          "length" : 22,
-                          "offset" : 0,
-                          "style" : "SIZE:16"
-                        },
-                        {
-                          "length" : 22,
+                          "length" : 17,
                           "offset" : 0,
                           "style" : "LETTERSPACING:0"
                         },
                         {
-                          "length" : 22,
+                          "length" : 17,
                           "offset" : 0,
                           "style" : "LINEHEIGHT:1.2"
+                        },
+                        {
+                          "length" : 17,
+                          "offset" : 0,
+                          "style" : "SIZE:18"
                         }
                       ],
                       "key" : "7co6q",
-                      "text" : "Press 'Ctrl-Q' to quit",
+                      "text" : "Press 'Q' to quit",
                       "type" : "unstyled"
                     }
                   ],
@@ -750,7 +750,7 @@
                 "textVerticalAlignment" : "top",
                 "top" : 301,
                 "visible" : true,
-                "width" : 155,
+                "width" : 135,
                 "widthType" : 0
               },
               {
@@ -763,7 +763,7 @@
                 "codeComponentIdentifier" : ".\/KeyboardLink.tsx_KeyboardLink",
                 "codeComponentPackageVersion" : null,
                 "codeComponentProps" : {
-                  "ctrl" : true,
+                  "ctrl" : false,
                   "hitkey" : "q",
                   "targetFrame" : [
                     {
@@ -1101,7 +1101,7 @@
                 "exportOptions" : [
 
                 ],
-                "height" : 70,
+                "height" : 72,
                 "heightType" : 0,
                 "id" : "e678HEbRB",
                 "isTarget" : false,
@@ -1218,11 +1218,6 @@
                         {
                           "length" : 17,
                           "offset" : 0,
-                          "style" : "SIZE:16"
-                        },
-                        {
-                          "length" : 17,
-                          "offset" : 0,
                           "style" : "LETTERSPACING:0"
                         },
                         {
@@ -1234,6 +1229,11 @@
                           "length" : 17,
                           "offset" : 0,
                           "style" : "ALIGN:center"
+                        },
+                        {
+                          "length" : 17,
+                          "offset" : 0,
+                          "style" : "SIZE:18"
                         }
                       ],
                       "key" : "324j1",

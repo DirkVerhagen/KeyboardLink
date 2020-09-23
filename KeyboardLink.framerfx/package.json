@@ -9,7 +9,10 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "ca0b8807-6f1a-43d8-b8d2-b50463ee1bed"
+		"id": "ca0b8807-6f1a-43d8-b8d2-b50463ee1bed",
+		"displayName": "Keyboard Link"
 	},
-	"author": "Dirk Verhagen"
+	"author": "Dirk Verhagen",
+	"name": "@framer/dedirk.keyboard-link",
+	"version": "1.2.0"
 }
